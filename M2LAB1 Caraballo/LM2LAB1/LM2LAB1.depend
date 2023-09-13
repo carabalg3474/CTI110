@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694617518 source:f:\csc134\m2lab1 caraballo\lm2lab1\main.cpp
+	<iostream>
+	<iomanip>
+
